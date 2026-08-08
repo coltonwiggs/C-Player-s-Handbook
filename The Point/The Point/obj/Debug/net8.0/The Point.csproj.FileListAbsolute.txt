@@ -1,0 +1,14 @@
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Point\The Point\bin\Debug\net8.0\The Point.exe
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Point\The Point\bin\Debug\net8.0\The Point.deps.json
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Point\The Point\bin\Debug\net8.0\The Point.runtimeconfig.json
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Point\The Point\bin\Debug\net8.0\The Point.dll
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Point\The Point\bin\Debug\net8.0\The Point.pdb
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Point\The Point\obj\Debug\net8.0\The Point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Point\The Point\obj\Debug\net8.0\The Point.AssemblyInfoInputs.cache
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Point\The Point\obj\Debug\net8.0\The Point.AssemblyInfo.cs
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Point\The Point\obj\Debug\net8.0\The Point.csproj.CoreCompileInputs.cache
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Point\The Point\obj\Debug\net8.0\The Point.dll
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Point\The Point\obj\Debug\net8.0\refint\The Point.dll
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Point\The Point\obj\Debug\net8.0\The Point.pdb
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Point\The Point\obj\Debug\net8.0\The Point.genruntimeconfig.cache
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Point\The Point\obj\Debug\net8.0\ref\The Point.dll

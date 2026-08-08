@@ -1,0 +1,14 @@
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Locked Door\The Locked Door\bin\Debug\net8.0\The Locked Door.exe
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Locked Door\The Locked Door\bin\Debug\net8.0\The Locked Door.deps.json
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Locked Door\The Locked Door\bin\Debug\net8.0\The Locked Door.runtimeconfig.json
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Locked Door\The Locked Door\bin\Debug\net8.0\The Locked Door.dll
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Locked Door\The Locked Door\bin\Debug\net8.0\The Locked Door.pdb
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Locked Door\The Locked Door\obj\Debug\net8.0\The Locked Door.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Locked Door\The Locked Door\obj\Debug\net8.0\The Locked Door.AssemblyInfoInputs.cache
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Locked Door\The Locked Door\obj\Debug\net8.0\The Locked Door.AssemblyInfo.cs
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Locked Door\The Locked Door\obj\Debug\net8.0\The Locked Door.csproj.CoreCompileInputs.cache
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Locked Door\The Locked Door\obj\Debug\net8.0\The Locked Door.dll
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Locked Door\The Locked Door\obj\Debug\net8.0\refint\The Locked Door.dll
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Locked Door\The Locked Door\obj\Debug\net8.0\The Locked Door.pdb
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Locked Door\The Locked Door\obj\Debug\net8.0\The Locked Door.genruntimeconfig.cache
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Locked Door\The Locked Door\obj\Debug\net8.0\ref\The Locked Door.dll

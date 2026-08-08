@@ -1,0 +1,14 @@
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Properties of Arrows\The Properties of Arrows\bin\Debug\net8.0\The Properties of Arrows.exe
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Properties of Arrows\The Properties of Arrows\bin\Debug\net8.0\The Properties of Arrows.deps.json
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Properties of Arrows\The Properties of Arrows\bin\Debug\net8.0\The Properties of Arrows.runtimeconfig.json
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Properties of Arrows\The Properties of Arrows\bin\Debug\net8.0\The Properties of Arrows.dll
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Properties of Arrows\The Properties of Arrows\bin\Debug\net8.0\The Properties of Arrows.pdb
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Properties of Arrows\The Properties of Arrows\obj\Debug\net8.0\The Properties of Arrows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Properties of Arrows\The Properties of Arrows\obj\Debug\net8.0\The Properties of Arrows.AssemblyInfoInputs.cache
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Properties of Arrows\The Properties of Arrows\obj\Debug\net8.0\The Properties of Arrows.AssemblyInfo.cs
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Properties of Arrows\The Properties of Arrows\obj\Debug\net8.0\The Properties of Arrows.csproj.CoreCompileInputs.cache
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Properties of Arrows\The Properties of Arrows\obj\Debug\net8.0\The Properties of Arrows.dll
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Properties of Arrows\The Properties of Arrows\obj\Debug\net8.0\refint\The Properties of Arrows.dll
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Properties of Arrows\The Properties of Arrows\obj\Debug\net8.0\The Properties of Arrows.pdb
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Properties of Arrows\The Properties of Arrows\obj\Debug\net8.0\The Properties of Arrows.genruntimeconfig.cache
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Properties of Arrows\The Properties of Arrows\obj\Debug\net8.0\ref\The Properties of Arrows.dll

@@ -1,0 +1,14 @@
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Arrow Factories\Arrow Factories\bin\Debug\net8.0\Arrow Factories.exe
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Arrow Factories\Arrow Factories\bin\Debug\net8.0\Arrow Factories.deps.json
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Arrow Factories\Arrow Factories\bin\Debug\net8.0\Arrow Factories.runtimeconfig.json
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Arrow Factories\Arrow Factories\bin\Debug\net8.0\Arrow Factories.dll
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Arrow Factories\Arrow Factories\bin\Debug\net8.0\Arrow Factories.pdb
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Arrow Factories\Arrow Factories\obj\Debug\net8.0\Arrow Factories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Arrow Factories\Arrow Factories\obj\Debug\net8.0\Arrow Factories.AssemblyInfoInputs.cache
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Arrow Factories\Arrow Factories\obj\Debug\net8.0\Arrow Factories.AssemblyInfo.cs
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Arrow Factories\Arrow Factories\obj\Debug\net8.0\Arrow Factories.csproj.CoreCompileInputs.cache
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Arrow Factories\Arrow Factories\obj\Debug\net8.0\Arrow Factories.dll
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Arrow Factories\Arrow Factories\obj\Debug\net8.0\refint\Arrow Factories.dll
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Arrow Factories\Arrow Factories\obj\Debug\net8.0\Arrow Factories.pdb
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Arrow Factories\Arrow Factories\obj\Debug\net8.0\Arrow Factories.genruntimeconfig.cache
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Arrow Factories\Arrow Factories\obj\Debug\net8.0\ref\Arrow Factories.dll

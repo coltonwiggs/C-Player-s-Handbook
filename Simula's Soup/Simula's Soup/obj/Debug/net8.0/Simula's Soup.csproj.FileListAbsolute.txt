@@ -1,0 +1,14 @@
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Simula's Soup\Simula's Soup\bin\Debug\net8.0\Simula's Soup.exe
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Simula's Soup\Simula's Soup\bin\Debug\net8.0\Simula's Soup.deps.json
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Simula's Soup\Simula's Soup\bin\Debug\net8.0\Simula's Soup.runtimeconfig.json
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Simula's Soup\Simula's Soup\bin\Debug\net8.0\Simula's Soup.dll
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Simula's Soup\Simula's Soup\bin\Debug\net8.0\Simula's Soup.pdb
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Simula's Soup\Simula's Soup\obj\Debug\net8.0\Simula's Soup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Simula's Soup\Simula's Soup\obj\Debug\net8.0\Simula's Soup.AssemblyInfoInputs.cache
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Simula's Soup\Simula's Soup\obj\Debug\net8.0\Simula's Soup.AssemblyInfo.cs
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Simula's Soup\Simula's Soup\obj\Debug\net8.0\Simula's Soup.csproj.CoreCompileInputs.cache
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Simula's Soup\Simula's Soup\obj\Debug\net8.0\Simula's Soup.dll
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Simula's Soup\Simula's Soup\obj\Debug\net8.0\refint\Simula's Soup.dll
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Simula's Soup\Simula's Soup\obj\Debug\net8.0\Simula's Soup.pdb
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Simula's Soup\Simula's Soup\obj\Debug\net8.0\Simula's Soup.genruntimeconfig.cache
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Simula's Soup\Simula's Soup\obj\Debug\net8.0\ref\Simula's Soup.dll

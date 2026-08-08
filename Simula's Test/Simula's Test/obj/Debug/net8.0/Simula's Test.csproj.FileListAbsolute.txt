@@ -1,0 +1,14 @@
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Simula's Test\Simula's Test\bin\Debug\net8.0\Simula's Test.exe
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Simula's Test\Simula's Test\bin\Debug\net8.0\Simula's Test.deps.json
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Simula's Test\Simula's Test\bin\Debug\net8.0\Simula's Test.runtimeconfig.json
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Simula's Test\Simula's Test\bin\Debug\net8.0\Simula's Test.dll
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Simula's Test\Simula's Test\bin\Debug\net8.0\Simula's Test.pdb
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Simula's Test\Simula's Test\obj\Debug\net8.0\Simula's Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Simula's Test\Simula's Test\obj\Debug\net8.0\Simula's Test.AssemblyInfoInputs.cache
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Simula's Test\Simula's Test\obj\Debug\net8.0\Simula's Test.AssemblyInfo.cs
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Simula's Test\Simula's Test\obj\Debug\net8.0\Simula's Test.csproj.CoreCompileInputs.cache
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Simula's Test\Simula's Test\obj\Debug\net8.0\Simula's Test.dll
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Simula's Test\Simula's Test\obj\Debug\net8.0\refint\Simula's Test.dll
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Simula's Test\Simula's Test\obj\Debug\net8.0\Simula's Test.pdb
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Simula's Test\Simula's Test\obj\Debug\net8.0\Simula's Test.genruntimeconfig.cache
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\Simula's Test\Simula's Test\obj\Debug\net8.0\ref\Simula's Test.dll

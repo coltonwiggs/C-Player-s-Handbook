@@ -1,0 +1,14 @@
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Color\The Color\bin\Debug\net8.0\The Color.exe
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Color\The Color\bin\Debug\net8.0\The Color.deps.json
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Color\The Color\bin\Debug\net8.0\The Color.runtimeconfig.json
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Color\The Color\bin\Debug\net8.0\The Color.dll
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Color\The Color\bin\Debug\net8.0\The Color.pdb
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Color\The Color\obj\Debug\net8.0\The Color.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Color\The Color\obj\Debug\net8.0\The Color.AssemblyInfoInputs.cache
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Color\The Color\obj\Debug\net8.0\The Color.AssemblyInfo.cs
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Color\The Color\obj\Debug\net8.0\The Color.csproj.CoreCompileInputs.cache
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Color\The Color\obj\Debug\net8.0\The Color.dll
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Color\The Color\obj\Debug\net8.0\refint\The Color.dll
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Color\The Color\obj\Debug\net8.0\The Color.pdb
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Color\The Color\obj\Debug\net8.0\The Color.genruntimeconfig.cache
+C:\Users\cwigg\OneDrive\Documents\Visual Studio 2022\Projects\C# Player's Handbook\The Catacombs of the Class\The Color\The Color\obj\Debug\net8.0\ref\The Color.dll
